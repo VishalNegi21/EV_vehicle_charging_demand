@@ -65,7 +65,7 @@ EV_vehicle_charging_demand/
 
 - **Model Used**: *(e.g., Random Forest, XGBoost)*
 - **Metrics**: MAE, RMSE, R² Score
-- **Best Score Achieved**: *(Add your results here)*
+- **Best Score Achieved**: **99%** Accuracy with Random Forest
 
 ---
 
