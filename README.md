@@ -38,14 +38,12 @@ With the rise of electric vehicles, predicting charging demand is crucial for op
 ```bash
 
 EV_vehicle_charging_demand/
-├── data/ # Raw and processed datasets
-├── src/ # Code for preprocessing, training, inference
-├── analysis/ # Jupyter notebooks / EDA
-├── results/ # Saved models, metrics, plots
-├── train.py # Training script
-├── predict.py # Inference / prediction script
+├── Electric_Vehicle_Population_By_Country.csv #Raw Data
+├── preprocessed_ev_data.csv #preprocessed data
+├── aicte_ev_charging_prediction.ipynb #python notebook
+├── forecasting_ev_model.pkl #exported model
+├── app.py #python file for streamlit app
 ├── requirements.txt # Python dependencies
-├── LICENSE # License information
 └── README.md # This file
 ```
 ---
