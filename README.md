@@ -34,6 +34,8 @@ With the rise of electric vehicles, predicting charging demand is crucial for op
 ---
 
 ## 📁 Project Structure
+
+```
 EV_vehicle_charging_demand/
 ├── data/ # Raw and processed datasets
 ├── src/ # Code for preprocessing, training, inference
@@ -44,7 +46,7 @@ EV_vehicle_charging_demand/
 ├── requirements.txt # Python dependencies
 ├── LICENSE # License information
 └── README.md # This file
-
+```
 ---
 
 ## 📊 Workflow
