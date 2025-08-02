@@ -34,19 +34,16 @@ With the rise of electric vehicles, predicting charging demand is crucial for op
 ---
 
 ## 📁 Project Structure
-'''
 EV_vehicle_charging_demand/
-│
-├── data/                 # Raw and processed datasets
-├── src/ or scripts/      # Scripts for preprocessing, training, prediction
-├── analysis/             # Jupyter notebooks
-├── results/              # Saved models, metrics, and plots
-├── train.py              # Training script
-├── predict.py            # Prediction script
-├── requirements.txt      # Dependencies
-├── LICENSE               # License info
-└── README.md              # Project documentation
-'''
+├── data/ # Raw and processed datasets
+├── src/ # Code for preprocessing, training, inference
+├── analysis/ # Jupyter notebooks / EDA
+├── results/ # Saved models, metrics, plots
+├── train.py # Training script
+├── predict.py # Inference / prediction script
+├── requirements.txt # Python dependencies
+├── LICENSE # License information
+└── README.md # This file
 
 ---
 
